@@ -5,8 +5,12 @@ import cookie from 'react-cookies'
 import PostInline from './PostInline'
 
 class Posts extends Component {
+    state = {
+        posts: [],
+    }
   loadPosts(){
       const endpoint = '/api/posts/' 
+      let thisComp = this
       let lookupOptions = {
           method: "GET",
           headers: {
@@ -19,6 +23,9 @@ class Posts extends Component {
           return response.json()
       }).then(function(responseData){
           console.log(responseData)
+           thisComp.setState({
+                  posts: responseData
+              })
       }).catch(function(error){
           console.log("error", error)
       })
@@ -27,6 +34,7 @@ class Posts extends Component {
   createPost(){
       const endpoint = '/api/posts/' 
       const csrfToken = cookie.load('csrftoken')
+      let thisComp = this
       let data = {
             "slug": "",
             "title": "",
@@ -50,6 +58,7 @@ class Posts extends Component {
               return response.json()
           }).then(function(responseData){
               console.log(responseData)
+             
           }).catch(function(error){
               console.log("error", error)
           })
@@ -58,13 +67,22 @@ class Posts extends Component {
   }
 
   componentDidMount(){
+      this.setState({
+          posts: []
+      })
       this.loadPosts()
   }
   render() {
+      const {posts} = this.state
     return (
       <div>
           <h1>Hello World</h1>
-          <PostInline title='Test Title' />
+          {posts.length > 0 ? posts.map((postItem, index)=>{
+              return (
+                      <PostInline post={postItem} />
+              )
+          }) : <p>No Posts Found</p>}
+          
       </div>
     );
   }
