@@ -1,0 +1,1061 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from-",
+				"from-0"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"pr",
+				"prepend_item"
+			],
+			[
+				"va",
+				"validated_data\tparam"
+			],
+			[
+				"countr",
+				"country_of_issuance"
+			],
+			[
+				"Pay",
+				"PaymentMethod\tclass"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"response",
+				"responseJson\tparameter"
+			],
+			[
+				"Qu",
+				"QuestionResponseSerializer\tclass"
+			],
+			[
+				"q",
+				"Question\tclass"
+			],
+			[
+				"Q",
+				"Question\tclass"
+			],
+			[
+				"seria",
+				"serializer_class"
+			],
+			[
+				"Wel",
+				"WelcomeMatDiv"
+			],
+			[
+				"sender",
+				"sender_id"
+			],
+			[
+				"Lec",
+				"LectureNode〔class〕"
+			],
+			[
+				"lec",
+				"lectures"
+			],
+			[
+				"Proj",
+				"ProjectNode〔class〕"
+			],
+			[
+				"Django",
+				"DjangoFilterConnectionField〔module〕"
+			],
+			[
+				"L",
+				"LectureNode"
+			],
+			[
+				"Pr",
+				"ProjectNode〔class〕"
+			],
+			[
+				"get",
+				"get_user_model〔module〕"
+			],
+			[
+				"User",
+				"UserModel"
+			],
+			[
+				"con",
+				"contrib〔module〕"
+			],
+			[
+				"mes",
+				"message_data\tstatement"
+			],
+			[
+				"chat",
+				"chatmessage_set"
+			],
+			[
+				"Sear",
+				"SearchItemManager\tclass"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"sy",
+				"stylesheet"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"Chat",
+				"ChatQuerySetManager\tclass"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"COLOR_GRAY2R",
+				"COLOR_GRAY2RGBA\tinstance"
+			],
+			[
+				"COLOR_GRAY2",
+				"COLOR_GRAY2BGRA\tinstance"
+			],
+			[
+				"COLOR_GRAY",
+				"COLOR_GRAY2RGB\tinstance"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"out",
+				"output.avi"
+			],
+			[
+				"in",
+				"interpolation\tstatement"
+			],
+			[
+				"list",
+				"list_display\tstatement"
+			],
+			[
+				"is",
+				"isUploading"
+			],
+			[
+				"fil",
+				"file2\tstatement"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"progressBar",
+				"progressBarHolder"
+			],
+			[
+				"progress",
+				"progressbar"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"vid",
+				"videoFiles"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"my",
+				"machine_type"
+			],
+			[
+				"machine",
+				"machine_type"
+			],
+			[
+				"mac",
+				"machine_type"
+			],
+			[
+				"h",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"lecture",
+				"lecture_updates"
+			],
+			[
+				"request",
+				"requested_question\tstatement"
+			],
+			[
+				"Succe",
+				"successfully"
+			],
+			[
+				"login",
+				"login_required\tfunction"
+			],
+			[
+				"logi",
+				"login_required\tfunction"
+			],
+			[
+				"stipe",
+				"stripe_id\tstatement"
+			],
+			[
+				"ap",
+				"api_key\tstatement"
+			],
+			[
+				"se",
+				"secret\tstatement"
+			],
+			[
+				"mu",
+				"MultipleObjectsReturned"
+			],
+			[
+				"does",
+				"DoesNotExist"
+			],
+			[
+				"Do",
+				"DoesNotExist"
+			],
+			[
+				"html",
+				"htmlsafe"
+			],
+			[
+				"dj",
+				"djcelery"
+			],
+			[
+				"lecu",
+				"lectureCode"
+			],
+			[
+				"vide",
+				"videoFileUrl"
+			],
+			[
+				"project",
+				"project_slug"
+			],
+			[
+				"Http",
+				"Http404\tclass"
+			],
+			[
+				"HTT",
+				"HttpResponse\tclass"
+			],
+			[
+				"save",
+				"save_search"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"Lectur",
+				"Lecture\tclass"
+			],
+			[
+				"P",
+				"Project\tclass"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pass",
+				"password\tstatement"
+			],
+			[
+				"email",
+				"email_user\tstatement"
+			],
+			[
+				"ex",
+				"extra_tags\t''"
+			],
+			[
+				"smart_",
+				"smart_unicode\tstatement"
+			],
+			[
+				"emai",
+				"email_user\tstatement"
+			],
+			[
+				"get_",
+				"get_user\tfunction"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"regi",
+				"registration_profile"
+			],
+			[
+				"Regi",
+				"RegistrationProfile\tclass"
+			],
+			[
+				"url",
+				"urlpatterns\tstatement"
+			],
+			[
+				"ver",
+				"verify_password"
+			],
+			[
+				"chc",
+				"check_password"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"Bas",
+				"BasicAuthentication\timport"
+			],
+			[
+				"jmitch",
+				"jmitchel3"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"buc",
+				"bucket_list\tstatement"
+			],
+			[
+				"cre",
+				"create_video_tupe\tfunction"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"fi",
+				"file_string"
+			],
+			[
+				"Cloud",
+				"cloud_timestamp"
+			],
+			[
+				"Le",
+				"LectureManager\tclass"
+			],
+			[
+				"cl",
+				"cloud_timestamp\tstatement"
+			],
+			[
+				"clud",
+				"cloud_timestamp"
+			],
+			[
+				"now",
+				"now_time"
+			],
+			[
+				"cloud_",
+				"cloud_string"
+			],
+			[
+				"d",
+				"datetime"
+			],
+			[
+				"Htt",
+				"Http404\tclass"
+			],
+			[
+				"get_user",
+				"get_user_model\tfunction"
+			],
+			[
+				"http",
+				"Http404\tclass"
+			],
+			[
+				"H",
+				"HttpResponse\tclass"
+			],
+			[
+				"it",
+				"itemKey\tparam"
+			],
+			[
+				"dom",
+				"domain_name"
+			],
+			[
+				"sett",
+				"settings\tinstance"
+			],
+			[
+				"object",
+				"object_name\tstatement"
+			],
+			[
+				"Project",
+				"ProjectImage\tclass"
+			],
+			[
+				"ww",
+				"ww_width"
+			],
+			[
+				"the",
+				"theRow"
+			],
+			[
+				"make",
+				"make_project_page"
+			],
+			[
+				"back",
+				"back_btn"
+			],
+			[
+				"Aut",
+				"Authentication"
+			],
+			[
+				"code",
+				"coded_string\tstatement"
+			],
+			[
+				"page",
+				"pagecontainer"
+			],
+			[
+				"chan",
+				"changePage"
+			],
+			[
+				"Api",
+				"apiKey"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wisti",
+				"wistia_id"
+			],
+			[
+				"projec",
+				"project-slug"
+			],
+			[
+				"read",
+				"read_already"
+			],
+			[
+				"not",
+				"notify\tstatement"
+			],
+			[
+				"ques",
+				"question_id\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"type",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"typescri",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"set syntax reac",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"set syntax: templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"re",
+				"Set Syntax: React Templates"
+			],
+			[
+				"slinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"react templ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jmitch/Dev/reactifydjango"
+	],
+	"file_history":
+	[
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/logout.html",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/projects/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/onboarding/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/App.css",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/footer.html",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/getting-started/from-zero.html",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/register-form.html",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/login-form.html",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/templates/accounts/snippets/cfe_auth.html",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/base.html",
+		"/Users/jmitch/Dev/cfe-v3/src/staticfiles/img/cfe-icon.svg",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/forms.py",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/react.html",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/enroll-view.html",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/complete.html",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/api/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/enroll/SelectedCardInline.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/enroll/SavedCards.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/enroll/SelectCard.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/enroll/enroll.css",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/api/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/api/serializers.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/api/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/api/__init__.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/auth/LoginBlock.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/auth/RegisterBlock.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/auth/AuthBlock.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/billing.css",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/mixins.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/conf/utils.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/api/serializers.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/api/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/templates/billing/overview.html",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/enroll/Enroll.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/Cards.js",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/api/utils.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/conf/__init__.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/shell_tests.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/admin.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/api/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/api/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/api/serializers.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/utils.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/utils/time.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/utils/__init__.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/utils/rank.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/utils/storages.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/utils/commands.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/utils/generators.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/models.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/PaymentMethodStyles.js",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/templates/billing/payment-method-view.html",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/templates/billing/payment-method-view_old.html",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/PayPalAdd.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/PaymentMethodCreate.js",
+		"/Users/jmitch/Dev/cfe-v3/src/chat/models.py",
+		"/Users/jmitch/Dev/cfe-v3/src/courses/tests.py",
+		"/Users/jmitch/Dev/cfe-v3/src/accounts/tests.py",
+		"/Users/jmitch/Dev/cfe-v3/src/fixtures/users.json",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/settings/__init__.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/conf/gateway.py",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/base/js.html",
+		"/Users/jmitch/Dev/cfe-v3/src/templates/base/css.html",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/templates/enroll/welcome.html",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/utils.py",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/api/__init__.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/BillingReady.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/CardsInline.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/App.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/CardIcon.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/utils/OrBlock.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/utils/utils.css",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/templates/billing/payment-method-delete.html",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/index.js",
+		"/Users/jmitch/Dev/cfe-v3/src/enroll/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/api/views_old.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/public/index.html",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/ask/AskInline.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/ask/AskInlineChild.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/ask/AskVoteBtn.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/ask/AskResponse.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/ask/AskDetail.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/marketing/WelcomeMatDiv.js",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/setup_env.py",
+		"/Users/jmitch/Dev/cfe-v3/src/comments/api/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/billing/templates/billing/react/embed.html",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/braintree/conf.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/PaymentMethodCreate.jsx",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/CardsList.jsx",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/CardInline.jsx",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/utils/EmptyListBlock.jsx",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/billing/cards.jsx",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/utils/LoadingBar.jsx",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/ask/AskCreate.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/settings/local.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/index.js",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/templates/ask/react-detail.html",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/users/UserThumb.js",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/api/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/models.py",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/api/serializers.py",
+		"/Users/jmitch/Dev/cfe-v3/src/notify/api/views.py",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe/api/pagination.py",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/api/urls.py",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/templates/ask/react.html",
+		"/Users/jmitch/Dev/cfe-v3/src/chat/utils.py",
+		"/Users/jmitch/Dev/cfe-v3/src/.gitignore",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/App.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/app/brand/Navbar.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/app/courses/CourseList.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/ios/build/info.plist",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/ios/cfeMobile/Info.plist",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/node_modules/react-native/Libraries/Network/XMLHttpRequest.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/app/courses/Navbar.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/courses/CourseList.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfeMobile/app/courses/CoursesList.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/ask/Ask.js",
+		"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/chat/ChatThreadDetail.js",
+		"/Users/jmitch/Dev/cfe-v3/src/ask/api/__init__.py",
+		"/Users/jmitch/Dev/cfe-v3/src/chat/consumers.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*, -*.map, -*.css, -*.json, -*.html",
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*, -*.map, -*.css, -*.json",
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*, -*.map, -*.css",
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*, -*.map",
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*, -*.map, -*.js",
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*, -*.map",
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*, -*.js",
+			"/Users/jmitch/Dev/cfe-v3/src/, -*/node_modules/*, -*/migrations/*",
+			"/Users/jmitch/Dev/cfe-v3/src/cfe-ui/src/, -*/node_modules/*, -*/migrations/*",
+			"/Users/jmitch/Dev/cfe-v3/src/cfe-ui, -*/node_modules/*, -*/migrations/*",
+			"/Users/jmitch/Dev/cfe-v3/src, -*/node_modules/*, -*/migrations/*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_gateway",
+			"creating...",
+			"users",
+			".sec",
+			"select from",
+			"select a",
+			"LogoutView",
+			"logout",
+			"LoginView",
+			"login",
+			"cancelled",
+			"nextSubDate",
+			"get_next_billing_date",
+			"timeLeft",
+			"grabPrevious",
+			"font",
+			"spin",
+			"cancel",
+			"subscription_obj",
+			"create_gateway_customer",
+			"smart_text",
+			"billingprofile",
+			"yearly",
+			"doCompleteEnrollment",
+			"BraintreeSubscription(",
+			"PaymentMethodDetailView",
+			"create_pdf",
+			"#checkoutForm",
+			"is_active(self",
+			"is_member",
+			"BraintreeSubscription(",
+			"BraintreeSubscription",
+			"billingprofile",
+			"my-5 py-5",
+			"change",
+			"Select a saved Payment Method",
+			"card is..",
+			"handleCardSelected",
+			"cardWasSelected",
+			"handleCardSelected",
+			"cardWasSelected",
+			"changeNewCard",
+			"change",
+			"console",
+			"load",
+			"saved",
+			"border-",
+			"br>",
+			"getBillingReady",
+			"token",
+			"client",
+			"token",
+			"token =",
+			"PayPalAdd",
+			"loading",
+			"token",
+			"loadCards",
+			"doneLoading",
+			"errorMessage",
+			"error",
+			"console.log",
+			"newCardSuccessMsg",
+			"FontAwesomeIcon",
+			"remove this",
+			"console.log",
+			"cfe-fa-paypal",
+			"font",
+			"default=True",
+			"braintree",
+			"121",
+			"sender=PaymentMethod",
+			"sender = PaymentMethod",
+			"PaymentMethod",
+			"updatedCard",
+			"PaymentMethod",
+			"make_default",
+			"braintree",
+			"braintree.Configuration.configure",
+			"make_default",
+			"braintree.",
+			"braintree",
+			"make_default",
+			"post_save",
+			"make_default",
+			".default = ",
+			"default",
+			"deleteCard",
+			"confirmAlert",
+			"onCommentDelete",
+			"delete",
+			"dleete",
+			"clearPaymentForm",
+			"errorHandler",
+			"handleNewCardCancel",
+			"cancelNewCard",
+			"cancelAdding",
+			"clearPaymentForm",
+			"cancelAdding",
+			"new_method",
+			"PaymentMethod",
+			"timeago",
+			"toggleNewCardDisplay",
+			"bind",
+			"handleNewMethod",
+			"TransactionSerializer",
+			"submitBtn",
+			"EmptyListBlock",
+			"createForm",
+			"alert",
+			"class=",
+			"doneLoading",
+			"LoadingBar",
+			"style",
+			"questionInput",
+			"contentArea",
+			"token",
+			"for",
+			"ref",
+			"create",
+			"createref",
+			"hostedFieldsCallback",
+			"item",
+			"parentItem",
+			"rows",
+			"toggleHelpText",
+			"helpText",
+			"ReactMarkdown",
+			"commentArea"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"className=",
+			"<div id='cfe-ui' data-type='comment-detail'"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 265.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reactifydjango.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 870.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
