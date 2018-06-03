@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import 'whatwg-fetch'
 import cookie from 'react-cookies'
 
+import PostInline from './PostInline'
+
 class Posts extends Component {
   loadPosts(){
       const endpoint = '/api/posts/' 
@@ -60,7 +62,10 @@ class Posts extends Component {
   }
   render() {
     return (
-      <h1>Hello World</h1>
+      <div>
+          <h1>Hello World</h1>
+          <PostInline title='Test Title' />
+      </div>
     );
   }
 }
