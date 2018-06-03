@@ -1,4 +1,4 @@
-# Reactify-DJango UI
+# Reactify-Django UI
 
 
 This is the react portion of the **Reactify Django** project. To get it working locally just do:
