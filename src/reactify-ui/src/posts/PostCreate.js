@@ -7,6 +7,9 @@ class PostCreate extends Component {
         super(props)
         this.handleSubmit = this.handleSubmit.bind(this)
         this.handleInputChange = this.handleInputChange.bind(this)
+        this.clearForm = this.clearForm.bind(this)
+        this.postTitleRef = React.createRef()
+        this.postContentRef = React.createRef()
         this.state = {
             draft: false,
             title: null,
@@ -38,6 +41,7 @@ class PostCreate extends Component {
               if (thisComp.props.newPostItemCreated){
                   thisComp.props.newPostItemCreated(responseData)
               }
+              thisComp.clearForm()
           }).catch(function(error){
               console.log("error", error)
               alert("An error occured, please try again later.")
@@ -74,6 +78,20 @@ class PostCreate extends Component {
         })
     }
 
+    clearForm(event){
+      if (event){
+        event.preventDefault()
+      }
+      this.postCreateForm.reset()
+    }
+
+
+    clearFormRefs(){
+      this.postTitleRef.current=''
+      this.postContentRef.current=''
+    }
+
+
     componentDidMount(){
         this.setState({
             draft: false,
@@ -81,18 +99,27 @@ class PostCreate extends Component {
             content: null,
             publish: null,
         })
+        this.postTitleRef.current.focus()
     }
 
     render(){
         return (
-            <form onSubmit={this.handleSubmit}>
+            <form onSubmit={this.handleSubmit} ref={(el) => this.postCreateForm = el}>
                 <div className='form-group'>
                     <label for='title'>Post title</label>
-                    <input type='text' id='title' name='title' className='form-control' placeholder='Blog post title' onChange={this.handleInputChange} required='required'/>
+                    <input 
+                      type='text' 
+                      id='title' 
+                      name='title' 
+                      className='form-control'
+                      placeholder='Blog post title' 
+                      ref = {this.postTitleRef}
+                      onChange={this.handleInputChange} 
+                      required='required'/>
                 </div>
                  <div className='form-group'>
                     <label for='content'>Content</label>
-                    <textarea id='content' name='content' className='form-control' placeholder='Post content' onChange={this.handleInputChange} required='required'/>
+                    <textarea id='content' ref = {this.postContentRef} name='content' className='form-control' placeholder='Post content' onChange={this.handleInputChange} required='required'/>
                    
                 </div>
                 <div className='form-group'>
@@ -105,6 +132,7 @@ class PostCreate extends Component {
                     <input type='date' id='publish' name='publish' className='form-control' onChange={this.handleInputChange} required='required'/>
                 </div>
                 <button className='btn btn-primary'>Save</button>
+                <button className='btn btn-secondary' onClick={this.clearForm}>Cancel</button>
             </form>
         )
     }
