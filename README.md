@@ -28,7 +28,7 @@ $ source bin/activate
 (reactifydjango) $ npm install
 ```
 
-### Lectures
+### Sections
 
 [8 - Hello World](../../tree/6c835af4d8baf3a7e22ef9abefad455738fabfcd/)
 
@@ -42,4 +42,15 @@ $ source bin/activate
 
 [13 - React and How it Renders](../../tree/37586cc374f8b4d48d85f1ffca61f2a6bd0ea03e/)
 
+[14 - HTML Form in React](../../tree/2db192d7d1c9f944aeb6e8b1326eefb2636da498/)
+
+[15 - Handle a Form with React](../../tree/2cb6b6194545e72c07e54733dea71eac37070e94/)
+
+[16 - Sending Data from React to Django](../../tree/77eae0b301727c6b0190f7f0b6fc3afbe96ad926/)
+
+[17 - Child Element Event Emitter](../../tree/a101fe97e65a7934ba8eba8f2f23c9a2326d77ee/)
+
+[18 - Clear Form](../../tree/1cfb591054c7f0e59893608594bae4abe45172e2/)
+
+[19 - Preset Input Value](../../tree/777e27e8eae408629ab072bf2cb079da36f385b9/)
 
