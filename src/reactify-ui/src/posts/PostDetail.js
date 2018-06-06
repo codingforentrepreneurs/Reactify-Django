@@ -88,10 +88,11 @@ class PostDetail extends Component {
                     pathname: `/posts`,
                     state: { fromDashboard: false }
                   }}>Posts</Link>
-                  <Link maintainScrollPosition={false} to={{
+
+                  {post.owner === true ? <Link maintainScrollPosition={false} to={{
                     pathname: `/posts/create/`,
                     state: { fromDashboard: false }
-                  }}>Create Post</Link>
+                  }}>Create Post</Link> : "" }
                </p>
 
                   {post.owner === true ? <PostForm post={post} postItemUpdated={this.handlePostItemUpdated} /> : ""}
