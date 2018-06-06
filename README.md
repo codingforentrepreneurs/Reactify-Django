@@ -59,3 +59,17 @@ $ source bin/activate
 [21 - URL Routing in React](../../tree/a06673331b1376af301b32bd6a11c6ef73eca05b/)
 
 [22 - Link with React Router Dom](../../tree/a06673331b1376af301b32bd6a11c6ef73eca05b/)
+
+[23 - Post Detial View](../../tree/909e007379df86ee36dcbee5e27dc399de3dae40/)
+
+[24 - Post Owner](../../tree/3636c831c2f83f1ed44b83d4fdabb5ccf62c7a87/)
+
+[25 & 26 Post Update Part 1 & 2](../../tree/0c6d5ae88e2101ee66815f6973eba6a7b7595921/)
+
+[27 - Post Create Clean Up](../../tree/e9ac788d69677948680a356e35af83b6a77cb1da/)
+
+[28 - Django Rest Framework Custom Pagination](../../tree/49fe7e358ef226ce32a0c8521fcb8e7334b346d1/)
+
+[29 - Dynamically Load More Posts](../../tree/01ce4eb5788a39cdbd76d51381f0645fd4657ceb/)
+
+[30 - Thank you](../../tree/4a29c537c290e1a5bd31b8e1b8692972d3f271ec/)
