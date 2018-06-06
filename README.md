@@ -54,3 +54,8 @@ $ source bin/activate
 
 [19 - Preset Input Value](../../tree/777e27e8eae408629ab072bf2cb079da36f385b9/)
 
+[20 - Handle a Checkbox in React](../../tree/56b0f61c89ab17aa5be6193eb0f610a9f4ee17a8/)
+
+[21 - URL Routing in React](../../tree/a06673331b1376af301b32bd6a11c6ef73eca05b/)
+
+[22 - Link with React Router Dom](../../tree/a06673331b1376af301b32bd6a11c6ef73eca05b/)
