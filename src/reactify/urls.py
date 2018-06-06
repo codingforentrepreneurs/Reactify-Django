@@ -20,6 +20,7 @@ from django.urls import path, include, re_path
 
 urlpatterns = [
     path('', TemplateView.as_view(template_name='react.html')),
+    path('walking', TemplateView.as_view(template_name='walking.html')),
     re_path(r'^posts/', TemplateView.as_view(template_name='react.html')),
     path('admin/', admin.site.urls),
     path('api/posts/', include('posts.urls'))
