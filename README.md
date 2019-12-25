@@ -17,7 +17,8 @@ This project is about integrating React with Django.
 $ cd path/to/your/dev/folder
 $ mkdir reactifydjango
 $ cd reactifydjango
-$ git clone https://github.com/codingforentrepreneurs/Reactify-Django .
+$ git clone https://github.com/codingforentrepreneurs/Reactify-Django
+$ cd Reactify-Django
 $ git reset bc78f49e5f3fe1992b99afb85782b6281bf981a1 --hard
 $ git remote remove origin
 $ virtualenv -p python3 .
